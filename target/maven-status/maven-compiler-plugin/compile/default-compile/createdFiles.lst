@@ -1,0 +1,12 @@
+prodcat\miniprojet\data\moduls\Category.class
+prodcat\miniprojet\controllers\CategoryController.class
+prodcat\miniprojet\data\dto\CategoryDto.class
+prodcat\miniprojet\services\ProductService.class
+prodcat\miniprojet\services\CategoryService.class
+prodcat\miniprojet\data\repositories\ProductRepository.class
+prodcat\miniprojet\data\configuration\BeanConfig.class
+prodcat\miniprojet\data\dto\ProductDto.class
+prodcat\miniprojet\data\moduls\Product.class
+prodcat\miniprojet\MiniProjetApplication.class
+prodcat\miniprojet\controllers\ProductController.class
+prodcat\miniprojet\data\repositories\CategoryRepository.class

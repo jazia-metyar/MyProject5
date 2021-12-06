@@ -1,0 +1,6 @@
+projectKey=ProdCat:mini-projet
+serverUrl=http://localhost:9000
+serverVersion=8.9.1.44547
+dashboardUrl=http://localhost:9000/dashboard?id=ProdCat%3Amini-projet
+ceTaskId=AXpZodq8oln8wUKFkaqN
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXpZodq8oln8wUKFkaqN
